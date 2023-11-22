@@ -21,6 +21,20 @@
     border-radius: .5vw;
     font-size: 2vw;
 }
+.lhead3 {
+    position: absolute;
+    margin-left: 14vw;
+    margin-top: -.6vh;
+    background-color: black;
+    border-radius: .5vw;
+    font-size: 2vw;
+}
+
+
+
+
+
+
 a {
     text-decoration: none;
 
