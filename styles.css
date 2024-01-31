@@ -189,7 +189,7 @@ html {
     border-radius: 0.7575757575757576vh;
 }
 span:hover + .btn_bg {
-    width: 27.272727272727273vh;
+    width: 27.4vh;
     margin-left: -6.818181818181818vh;
 }
 .btn_two > span:hover {
